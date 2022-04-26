@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
 
 - 🌱 I’m currently learning Computer Science and Technology at Zhejiang University in Hangzhou, China.
 - 📫 you can reach me by [mail](mailto:suzhe@zju.edu.cn)
