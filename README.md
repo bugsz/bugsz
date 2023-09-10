@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I am currently a Master of Science in Machine Learning student at Carnegie Mellon University.
-- 🌱 I did my undergraduate study at Zhejiang University in Hangzhou, China.
+- 👋 I did my undergraduate study at Zhejiang University in Hangzhou, China.
 - 📫 you can reach me by [mail](mailto:zhesu@cs.cmu.edu)
 
 [![bugsz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugsz)](https://github.com/anuraghazra/github-readme-stats)
